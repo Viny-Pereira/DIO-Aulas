@@ -1,2 +1,3 @@
 # DIO-Aulas
-Projetos desenvolvidos durante as aulas 
+Projetos desenvolvidos durante as aulas para aprendizado
+
