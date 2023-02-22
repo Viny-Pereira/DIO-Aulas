@@ -21,7 +21,7 @@ public class AboutMeV2 {
             System.out.println("I'm " + age + " years old");
             System.out.println("My height is " + heigth + "m");
 
-            /*
+            /**
              * My name is Viny Pereira
              * I'm 21 years old
              * My heigth is 1.80m
