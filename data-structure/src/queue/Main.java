@@ -10,6 +10,6 @@ public class Main {
         myQueue.enqueue(new Node("third"));
         myQueue.enqueue(new Node("fourth"));
 
-        System.out.println(null);
+        System.out.println(myQueue);
     }
 }
