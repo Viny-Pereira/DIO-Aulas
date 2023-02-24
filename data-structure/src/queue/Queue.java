@@ -22,6 +22,7 @@ public class Queue {
                     break;
                 }
             }
+            return firstNode;
         }
         return null;
     }
@@ -35,7 +36,7 @@ public class Queue {
                     nodeAuxiliar = firstNode;
                     firstNode = firstNode.getRefNode();
                 } else {
-                    nodeAuxiliar.setObject(null);
+                    nodeAuxiliar.setRefNode(null);
                     break;
                 }
             }
