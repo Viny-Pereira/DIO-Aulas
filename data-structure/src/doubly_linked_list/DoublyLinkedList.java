@@ -14,7 +14,7 @@ public class DoublyLinkedList<T> {
         if (firstNode == null) {
             firstNode = newNode;
         }
-        if (lastNode == null) {
+        if (lastNode != null) {
             lastNode.setNextNode(newNode);
         }
         lastNode = newNode;
