@@ -24,7 +24,7 @@ public class BinaryTree<T extends Comparable<T>> {
     }
 
     public void showInOrder() {
-        System.out.println("n Showing InOrder");
+        System.out.println("\n Showing InOrder");
         showInOrder(this.root);
     }
 
@@ -37,7 +37,7 @@ public class BinaryTree<T extends Comparable<T>> {
     }
 
     public void showPostOrder() {
-        System.out.println("n Showing PostOrder");
+        System.out.println("\n Showing PostOrder");
         showPostOrder(this.root);
     }
 
