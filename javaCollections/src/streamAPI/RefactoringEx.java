@@ -1,8 +1,8 @@
 package streamAPI;
 
 import java.util.*;
-import java.util.function.Consumer;
-import java.util.function.Function;
+// import java.util.function.Consumer;
+// import java.util.function.Function;
 
 public class RefactoringEx {
     public static void main(String[] args) {
